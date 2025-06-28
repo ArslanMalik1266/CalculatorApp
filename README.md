@@ -23,8 +23,6 @@ A simple calculator app built using Kotlin and XML, featuring basic arithmetic o
 ![WhatsApp Image 2025-06-28 at 11 45 56_c54a2acf](https://github.com/user-attachments/assets/908be93a-9c3c-42c4-8038-7769727c33bd)
 
 
-![calculator scientific ss](https://github.com/user-attachments/assets/3ac58067-c34d-424e-a549-84ef439b25d9)
-
 
 
 
