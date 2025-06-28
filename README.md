@@ -13,10 +13,16 @@ A simple calculator app built using Kotlin and XML, featuring basic arithmetic o
 ---
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/954c886a-8d50-41b5-8a47-7c801b9a27a3)
+![WhatsApp Image 2025-06-28 at 11 45 56_01244485](https://github.com/user-attachments/assets/18979e68-3a26-4943-a097-abf5e26e4a9c)
 
 
-![image](https://github.com/user-attachments/assets/8b27f506-6879-4fc0-ba89-b0adf00a15d0)
+
+![WhatsApp Image 2025-06-28 at 11 45 55_3509b8d0](https://github.com/user-attachments/assets/601fead9-81bd-43fd-87ad-dc356467ab8b)
+
+
+![WhatsApp Image 2025-06-28 at 11 45 56_c54a2acf](https://github.com/user-attachments/assets/908be93a-9c3c-42c4-8038-7769727c33bd)
+
+
 
 
  
