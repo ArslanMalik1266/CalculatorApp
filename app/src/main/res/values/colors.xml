@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="resultScreen">#E5E1EF</color>
+    <color name="buttonsScreen">#FBF9FE</color>
+    <color name="bdmasButtons">#E1E8B5</color>
+    <color name="equalTOButton">#EEDBFB</color>
+    <color name="ButtonsColor">#F2EFF8</color>
+    <color name="ACButton">#F8E19B</color>
+
+</resources>
